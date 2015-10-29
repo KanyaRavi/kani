@@ -1,2 +1,0 @@
-# kani
-for xmpl
